@@ -18,12 +18,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish-061&theme=radical)
-
----
-
 ## 🌟 Skills & Technologies
 
 ### 🚀 Programming Languages
