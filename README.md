@@ -20,7 +20,7 @@
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manish-061&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manish-061&theme=radical)
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/kr-09-manish)  
-📧 Email: [kumarmanish092003@gmail.com](mailto:kumarmanish092003@gmail.com)
+- 📧 Email: [kumarmanish092003@gmail.com](mailto:kumarmanish092003@gmail.com)
 
 ---
 
