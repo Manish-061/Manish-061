@@ -50,6 +50,7 @@
 
 - **[Advanced Task Management Web Application](#)**: A feature-rich task management tool with persistent storage, deadline tracking, and a responsive user interface.  
   *Technologies: HTML, CSS, JavaScript*
+  You can access the live version of the app here: [Task Organizer - Live Demo](https://task-organizer-kappa.vercel.app/)
 
 ---
 
