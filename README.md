@@ -12,8 +12,6 @@
 
 ## 📊 GitHub Stats
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish-061&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark)
 
 ---
@@ -50,7 +48,7 @@
 
 - **[Advanced Task Management Web Application](#)**: A feature-rich task management tool with persistent storage, deadline tracking, and a responsive user interface.  
   *Technologies: HTML, CSS, JavaScript*
-  You can access the live version of the app here: [Task Organizer - Live Demo](https://task-organizer-kappa.vercel.app/)
+  [Task Organizer - Live Demo](https://task-organizer-kappa.vercel.app/)
 
 ---
 
