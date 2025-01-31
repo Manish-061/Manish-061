@@ -22,7 +22,6 @@
 ![C](https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-orange?style=for-the-badge&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,13 +47,13 @@
 
 - **[Advanced Task Management Web Application](#)**: A feature-rich task management tool with persistent storage, deadline tracking, and a responsive user interface.  
   *Technologies: HTML, CSS, JavaScript*
-  [Task Organizer - Live Demo](https://task-organizer-kappa.vercel.app/)
+ 🌐 [Live Demo](https://task-organizer-kappa.vercel.app/)
 
 ---
 
 ## 📬 Connect With Me
 - 💼 [LinkedIn](https://linkedin.com/in/kr-09-manish)  
-- 📧 Email: [kumarmanish092003@gmail.com](mailto:kumarmanish092003@gmail.com)
+- 📧 [kumarmanish092003@gmail.com](mailto:kumarmanish092003@gmail.com)
 
 ---
 
