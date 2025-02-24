@@ -59,13 +59,6 @@
 
 > "Success doesn't come from what you do occasionally, it comes from what you do consistently." – **Manish Kumar**
 
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish-061&theme=radical)
-
----
 
 
 <!---
