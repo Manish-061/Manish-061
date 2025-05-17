@@ -51,17 +51,17 @@
 
 ### Online Food Delivery Application
 A microservices-based food delivery platform with customer and admin interfaces.  
-*Technologies: Spring Boot, React.js, MongoDB, RESTful APIs  
+* Technologies: Spring Boot, React.js, MongoDB, RESTful APIs  
 [GitHub Repository](#)
 
 ### Advanced Task Management Web Application
 A feature-rich task management tool with persistent storage and responsive design.  
-*Technologies: HTML, CSS, JavaScript*  
+* Technologies: HTML, CSS, JavaScript*  
 🌐 [Live Demo](https://task-organizer-kappa.vercel.app/)
 
 ### Pattern Generator
 A program that generates patterns based on user input, perfect for learning loops and logic building.  
-*Technologies: Node.js, HTML, CSS, JavaScript, Bootstrap*  
+* Technologies: Node.js, HTML, CSS, JavaScript, Bootstrap*  
 🌐 [Live Demo](https://pattern-generator-manish-kumars-projects-b62ad520.vercel.app/) | [GitHub Repository](https://github.com/Manish-061/V2_Task)
 
 ---
