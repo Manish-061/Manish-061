@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Manish Kumar!
-🚀 **4rth Year B.Tech CSE Student** at Amity University, passionate about **Java Full-Stack Development** and **Smart India Hackathon Finalist 2023**!
+🚀 **4th Year B.Tech CSE Student** at Amity University, passionate about **Java Full-Stack Development** and **Smart India Hackathon Finalist 2023**!
 
 ## 👨‍💻 About Me
-- 🌱 Currently mastering  **React.js**, **Spring Boot**, and **Data Structures & Algorithms**
+- 🌱 Currently deepening expertise in **React.js**, **Spring Boot**, and **Data Structures & Algorithms**
 - 🏆 Finalist at **Smart India Hackathon 2023**
-- 🎯 Aspiring **Java Full-Stack Developer** with expertise in building scalable web applications
+- 🎯 Aspiring **Java Developer**, skilled in building scalable web applications
 - 💬 Open to collaborations on **Java Backend Development**, **Full-Stack Projects** and **Open Source**
 - 🔍 Currently exploring **Microservices Architecture** and **Cloud-Native Applications**
 
@@ -47,27 +47,35 @@
 
 ## 📌 Featured Projects
 
-### Online Food Delivery Application
-A microservices-based food delivery platform with customer and admin interfaces.  
-* Technologies: Spring Boot, React.js, MongoDB, RESTful APIs.
-* 
 ### Pattern Generator
 A program that generates patterns based on user input, perfect for learning loops and logic building.  
-* Technologies: Node.js, HTML, CSS, JavaScript, Bootstrap*  
+* Technologies: Node.js, HTML, CSS, JavaScript, Bootstrap
 🌐 [Live Demo](https://pattern-generator-manish-kumars-projects-b62ad520.vercel.app/) | [GitHub Repository](https://github.com/Manish-061/V2_Task)
 
+
+
+### 📅 Currently Working On
+
+## Online Food Delivery Application
+A microservices-based food delivery platform with customer and admin interfaces.  
+* Technologies: Spring Boot, React.js, MongoDB, RESTful APIs.
+
+
 ---
+
 
 ## 🏆 Achievements
 - **Smart India Hackathon 2023 Finalist**: Developed Java-based solutions for industry challenges
 - **Inter-College Cricket Championship**: Won as team member, demonstrating teamwork and collaboration
 
+
 ---
+
 
 ## 📜 Certifications
 - Programming in Java (NPTEL, IIT Kharagpur)
 - Introduction to IoT (NPTEL, IIT Kharagpur)
-- Software Engineer Intern (HackerRank)
+- Software Engineer Intern Certificate (HackerRank)
 - TCS iON Career Edge – Young Professional (Tata Consultancy Services)
 - Developer and Technology Job Simulation (Accenture, Forage)
 - Introduction to AI (Infosys SpringBoard)
