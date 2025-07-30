@@ -115,10 +115,7 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Manish-061&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark" />
-</p>
 
 ---
 
