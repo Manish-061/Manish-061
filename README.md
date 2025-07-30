@@ -1,91 +1,133 @@
-# 👋 Hi, I'm Manish Kumar!
-🚀 **4th Year B.Tech CSE Student** at Amity University, passionate about **Java Full-Stack Development** and **Smart India Hackathon Finalist 2023**!
+<h1 align="center">👋 Hi, I'm Manish Kumar</h1>
 
-## 👨‍💻 About Me
-- 🌱 Currently deepening expertise in **React.js**, **Spring Boot**, and **Data Structures & Algorithms**
-- 🏆 Finalist at **Smart India Hackathon 2023**
-- 🎯 Aspiring **Java Developer**, skilled in building scalable web applications
-- 💬 Open to collaborations on **Java Backend Development**, **Full-Stack Projects** and **Open Source**
-- 🔍 Currently exploring **Microservices Architecture** and **Cloud-Native Applications**
+<p align="center">
+🚀 Final Year B.Tech CSE Student | 💻 Java Full-Stack Developer | 🏆 SIH 2023 & IBM Hackathon 2025 Finalist  
+</p>
 
----
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark)
+<p align="center">
+<a href="https://linkedin.com/in/09-2003-manish"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:kumarmanish092003@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Manish-061"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"></a>
+</p>
 
 ---
 
-## 🌟 Skills & Technologies
+## 🧠 About Me
 
-### 🚀 Programming Languages
-![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-### 🌐 Backend Development
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Servlets & JSP](https://img.shields.io/badge/-Servlets%20&%20JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 📊 Database
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚙️ Tools & Technologies
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+- 🔭 Currently focused on **Java + Spring Boot + React.js**
+- 🤖 Integrating AI/LLM into real-world projects (Gemini, collaborative filtering)
+- 🌐 Building **scalable, modular, and API-driven systems**
+- 🧩 Strong grip on **DSA, OOPs, Microservices**
+- 🧑‍🤝‍🧑 Open to internships, collaborations, and OSS contributions
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Tech Stack
 
-### Pattern Generator
-A program that generates patterns based on user input, perfect for learning loops and logic building.  
-* Technologies: Node.js, HTML, CSS, JavaScript, Bootstrap
-🌐 [Live Demo](https://pattern-generator-manish-kumars-projects-b62ad520.vercel.app/) | [GitHub Repository](https://github.com/Manish-061/V2_Task)
+### 💻 Languages  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🛠️ Backend  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 📅 Currently Working On
+### 🧩 Databases  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
-## Online Food Delivery Application
-A microservices-based food delivery platform with customer and admin interfaces.  
-* Technologies: Spring Boot, React.js, MongoDB, RESTful APIs.
-
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
+## 🧑‍💻 Featured Projects
+
+<details>
+  <summary><strong>🍽 Online Food Delivery System</strong></summary>
+  
+  - Built customer/admin portals using **React.js**
+  - Developed **Spring Boot-based microservices**, integrated with **MongoDB**
+  - Implemented **WebSocket-based** real-time order tracking  
+  🧪 `Spring Boot`, `MongoDB`, `React.js`, `WebSockets`, `REST APIs`
+</details>
+
+<details>
+  <summary><strong>📚 Book Recommendation Engine</strong></summary>
+  
+  - Built collaborative filtering system with **cosine similarity**
+  - Backend logic with **Flask**, **Pandas**, and **NumPy**
+  - Live recommendations through **Flask web UI**  
+  📊 `Python`, `Flask`, `Pandas`, `NumPy`, `Data Analysis`
+</details>
+
+<details>
+  <summary><strong>🧮 Pattern Generator App</strong></summary>
+
+  - A web-based logic pattern generator for learners  
+  🌐 [Live Demo](https://pattern-generator-manish-kumars-projects-b62ad520.vercel.app/)  
+  📦 [Repository](https://github.com/Manish-061/V2_Task)
+</details>
+
+---
+
+## 💼 Internships
+
+**Kognos Infosystem** (Jun–Jul 2025)  
+➡️ Full-stack scribe system with **Flask** + **Jinja2**, AI integration using **Gemini LLM**
+
+**Tech Octanet Services** (Aug–Sep 2024)  
+➡️ Developed **task manager** and **travel agency landing page** using core frontend skills
+
+---
 
 ## 🏆 Achievements
-- **Smart India Hackathon 2023 Finalist**: Developed Java-based solutions for industry challenges
-- **Inter-College Cricket Championship**: Won as team member, demonstrating teamwork and collaboration
 
+- 🎖 **Smart India Hackathon 2023 Finalist**  
+- 🧠 **IBM Expert Labs Hackathon 2025 Finalist**
+- 🥇 Winner – Inter-College Cricket Tournaments  
+- 🏅 Strong advocate for teamwork, adaptability & performance
 
 ---
-
 
 ## 📜 Certifications
-- Programming in Java (NPTEL, IIT Kharagpur)
-- Introduction to IoT (NPTEL, IIT Kharagpur)
-- Software Engineer Intern Certificate (HackerRank)
-- TCS iON Career Edge – Young Professional (Tata Consultancy Services)
-- Developer and Technology Job Simulation (Accenture, Forage)
-- Introduction to AI (Infosys SpringBoard)
+
+- 📘 Java – *NPTEL (IIT Kharagpur)*
+- 🌱 Spring Boot 3 – *Udemy*
+- 🧪 Software Engineering Intern – *HackerRank*
+- 🎓 TCS iON Career Edge – *Young Professional*
+- 🛠 Accenture Forage – *Developer Job Simulation*
+- 🤖 Infosys SpringBoard – *Introduction to AI*
 
 ---
 
-## 📬 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/kr-09-manish)  
-- 📧 [kumarmanish092003@gmail.com](mailto:kumarmanish092003@gmail.com)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Manish-061&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark" />
+</p>
 
 ---
 
-> "The only way to do great work is to love what you do." – **Steve Jobs**
+## 📬 Let’s Connect
+
+📧 [kumarmanish092003@gmail.com](mailto:kumarmanish092003@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/09-2003-manish)  
+🐙 [GitHub](https://github.com/Manish-061)
+
+---
+
+> *"The only way to do great work is to love what you do."* — **Steve Jobs**
