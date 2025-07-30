@@ -15,16 +15,16 @@
 ## 🧠 About Me
 
 - 🔭 Currently focused on **Java + Spring Boot + React.js**
-- 🤖 Integrating AI/LLM into real-world projects (Gemini, collaborative filtering)
+- 📊 Exploring **Big Data**, **Data Analytics**, and **Recommendation Systems**
+- 🤖 Integrating AI/LLM into real-world projects
 - 🌐 Building **scalable, modular, and API-driven systems**
-- 🧩 Strong grip on **DSA, OOPs, Microservices**
 - 🧑‍🤝‍🧑 Open to internships, collaborations, and OSS contributions
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages  
+### 💻 Programming Languages  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,10 +39,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🧩 Databases  
+### 🧩 Databases & Big Data  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -53,7 +57,17 @@
 
 ---
 
-## 🧑‍💻 Featured Projects
+## 💼 Internships
+
+**Kognos Infosystem** (Jun–Jul 2025)  
+➡️ Full-stack scribe system with **Flask** + **Jinja2**, AI integration using **Gemini LLM**
+
+**Tech Octanet Services** (Aug–Sep 2024)  
+➡️ Developed **task manager** and **travel agency landing page** using core frontend skills
+
+---
+
+## 📌 Projects
 
 <details>
   <summary><strong>🍽 Online Food Delivery System</strong></summary>
@@ -83,20 +97,11 @@
 
 ---
 
-## 💼 Internships
-
-**Kognos Infosystem** (Jun–Jul 2025)  
-➡️ Full-stack scribe system with **Flask** + **Jinja2**, AI integration using **Gemini LLM**
-
-**Tech Octanet Services** (Aug–Sep 2024)  
-➡️ Developed **task manager** and **travel agency landing page** using core frontend skills
-
----
-
 ## 🏆 Achievements
 
 - 🎖 **Smart India Hackathon 2023 Finalist**  
 - 🧠 **IBM Expert Labs Hackathon 2025 Finalist**
+- 🎖 **IIT Bhubaneswar Frontend Battle 2025**
 - 🥇 Winner – Inter-College Cricket Tournaments  
 - 🏅 Strong advocate for teamwork, adaptability & performance
 
@@ -115,7 +120,9 @@
 
 ## 📊 GitHub Analytics
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark" />
+</p>
 
 ---
 
