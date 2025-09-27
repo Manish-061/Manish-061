@@ -39,21 +39,13 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
-### 🧩 Databases & Big Data  
+### 🧩 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 
 ---
 
@@ -79,15 +71,6 @@
 </details>
 
 <details>
-  <summary><strong>📚 Book Recommendation Engine</strong></summary>
-  
-  - Built collaborative filtering system with **cosine similarity**
-  - Backend logic with **Flask**, **Pandas**, and **NumPy**
-  - Live recommendations through **Flask web UI**  
-  📊 `Python`, `Flask`, `Pandas`, `NumPy`, `Data Analysis`
-</details>
-
-<details>
   <summary><strong>🧮 Pattern Generator App</strong></summary>
 
   - A web-based logic pattern generator for learners  
@@ -101,7 +84,7 @@
 
 - 🎖 **Smart India Hackathon 2023 Finalist**  
 - 🧠 **IBM Expert Labs Hackathon 2025 Finalist**
-- 🎖 **IIT Bhubaneswar Frontend Battle 2025**
+- 🎖 **IIT Bhubaneswar Frontend Battle 2025 Finalist**
 - 🥇 Winner – Inter-College Cricket Tournaments  
 - 🏅 Strong advocate for teamwork, adaptability & performance
 
@@ -110,7 +93,6 @@
 ## 📜 Certifications
 
 - 📘 Java – *NPTEL (IIT Kharagpur)*
-- 🌱 Spring Boot 3 – *Udemy*
 - 🧪 Software Engineering Intern – *HackerRank*
 - 🎓 TCS iON Career Edge – *Young Professional*
 - 🛠 Accenture Forage – *Developer Job Simulation*
