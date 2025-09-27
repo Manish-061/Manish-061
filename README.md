@@ -14,9 +14,8 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently focused on **Java + Spring Boot + React.js**
-- 📊 Exploring **Big Data**, **Data Analytics**, and **Recommendation Systems**
-- 🤖 Integrating AI/LLM into real-world projects
+- 🔭 Currently focused on **Java + Spring Boot + DSA**
+- 📊 Exploring **AI / ML**
 - 🌐 Building **scalable, modular, and API-driven systems**
 - 🧑‍🤝‍🧑 Open to internships, collaborations, and OSS contributions
 
@@ -31,13 +30,11 @@
 
 ### 🛠️ Backend  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ### 🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧩 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -46,7 +43,7 @@
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ---
 
 ## 💼 Internships
