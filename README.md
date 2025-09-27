@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Manish Kumar</h1>
 
 <p align="center">
-🚀 Final Year B.Tech CSE Student | 💻 Java Full-Stack Developer | 🏆 SIH 2023 & IBM Hackathon 2025 Finalist  
+🚀 Final Year B.Tech CSE Student | 💻 Java Developer | 🏆 SIH 2023 & IBM Hackathon 2025 Finalist  
 </p>
 
 <p align="center">
