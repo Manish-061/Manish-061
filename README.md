@@ -43,7 +43,6 @@
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ---
 
 ## 💼 Internships
@@ -97,11 +96,9 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark)
 
 ---
 
