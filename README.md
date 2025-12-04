@@ -98,7 +98,8 @@
 
 ## GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=dark)
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish061&show_icons=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish061&layout=compact)
 
 ---
 
