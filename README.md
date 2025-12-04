@@ -91,15 +91,14 @@
 - 📘 Java – *NPTEL (IIT Kharagpur)*
 - 🧪 Software Engineering Intern – *HackerRank*
 - 🎓 TCS iON Career Edge – *Young Professional*
-- 🛠 Accenture Forage – *Developer Job Simulation*
 - 🤖 Infosys SpringBoard – *Introduction to AI*
 
 ---
 
 ## GitHub Analytics
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish061&show_icons=true&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish061&layout=compact)
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manish-061&show_icons=true&count_private=true&hide=prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish-061&layout=compact)
 
 ---
 
