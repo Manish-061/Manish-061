@@ -66,14 +66,6 @@
   🧪 `Spring Boot`, `MongoDB`, `React.js`, `WebSockets`, `REST APIs`
 </details>
 
-<details>
-  <summary><strong>🧮 Pattern Generator App</strong></summary>
-
-  - A web-based logic pattern generator for learners  
-  🌐 [Live Demo](https://pattern-generator-manish-kumars-projects-b62ad520.vercel.app/)  
-  📦 [Repository](https://github.com/Manish-061/V2_Task)
-</details>
-
 ---
 
 ## 🏆 Achievements
@@ -97,7 +89,6 @@
 
 ## GitHub Analytics
 
-![Manish's GitHub Stats](https://github-readme-stats-mu-dun.vercel.app/api?username=Manish-061&show_icons=true&count_private=true&hide=prs)
 ![Top Languages](https://github-readme-stats-mu-dun.vercel.app/api/top-langs/?username=Manish-061&layout=compact)
 
 ---
