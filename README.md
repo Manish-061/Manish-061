@@ -43,10 +43,6 @@ Full-stack food delivery platform with customer and admin workflows and real-tim
 
 **Tech:** Java | Spring Boot | MongoDB | React.js | REST APIs | AWS S3<br>
 
-## 📊 GitHub Analytics
-
-![Top Languages](https://github-readme-stats-mu-dun.vercel.app/api/top-langs/?username=Manish-061&layout=compact)
-
 
 ## 🎯 Career Focus
 
