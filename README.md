@@ -5,7 +5,7 @@
 
 I’m a senior undergraduate software developer focused on building **real, end-to-end software systems**. I primarily work in the **Java ecosystem**, building backend services using Spring Boot and AI integrated systems. 
 
-Finalist at Smart India Hackathon 2023 and IBM Expert Labs Hackathon 2025, competing in large-scale, problem-driven development environments.<br>
+Finalist at Smart India Hackathon 2023, IBM Expert Labs Hackathon 2025, and IBM-AWS National Hackathon competing in large-scale, problem-driven development environments.<br>
 
 **Tech Stack:**  
 
