@@ -13,7 +13,7 @@ Finalist at Smart India Hackathon 2023, IBM Expert Labs Hackathon 2025, and IBM-
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -21,28 +21,60 @@ Finalist at Smart India Hackathon 2023, IBM Expert Labs Hackathon 2025, and IBM-
 ![LLMs](https://img.shields.io/badge/LLMs-8B5CF6?style=for-the-badge)
 
 
-## 🧠 What I’m Currently Working On
+## 🧠 Working On
 
-- Scalable backend services (Spring Boot)  
+- Generative AI 
+- Backend Development
 - API-driven system design  
-- LLM-powered application features  
 - DSA and backend problem-solving<br>
 
+[![Manish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manish-061&theme=tokyo-night&hide_border=true)](https://github.com/Manish-061)
+| Top Languages | GitHub Streak |
+| --- | --- |
+| ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manish-061&layout=compact&theme=tokyonight&hide_border=true) | ![GitHub Streak](https://streak-stats.demolab.com?user=Manish-061&theme=tokyonight&hide_border=true) |
 ## 💼 Internships
 
-**Kognos Infosystem** (Jun – Jul 2025)  
-- Built a full-stack **scribe management system** using Flask and Jinja2  
-- Integrated **AI features using Gemini LLM**  
-- Worked on backend logic, templating, and system workflows  <br>
+### AI/ML Intern — Kognos Infosystem  
+*June 2025 – July 2025*
+
+- Built an AI-powered medical scribe system using Python and Flask for automated patient documentation.
+- Integrated Google Speech-to-Text and Gemini LLM for transcription and structured clinical summary generation.
+- Developed an audio processing pipeline using FFmpeg and pydub for real-time browser recordings.
+- Implemented Pydantic validation and JSON schema enforcement for reliable data processing.
 
 ## 📌 Projects
 
-### 🍽 Online Food Delivery System
+### SmartExpense
 
-Full-stack food delivery platform with customer and admin workflows and real-time order tracking.
+A full-stack financial tracking application that extracts receipt data using OCR and helps users manage expenses and budgets efficiently.
 
-**Tech:** Java | Spring Boot | MongoDB | React.js | REST APIs | AWS S3<br>
+#### Features
+- Receipt upload with OCR-based data extraction
+- Expense and budget management
+- Bill splitting and settle up
+- Secure cloud-based file storage
+- Responsive modern UI
 
+**Tech Stack:** Java · Spring Boot · PostgreSQL · React.js · AWS S3 · REST APIs  
+**Deployment:** Docker · Render · Vercel · Neon
+
+#### 🔗 Links
+- **Live Demo:** [SmartExpense](https://smart-expense-ochre.vercel.app)
+- **Source Code:** [GitHub Repository](https://github.com/Manish-061/smart-expense)
+
+---
+
+### AI-Powered Web Summarizer
+
+- Built RESTful APIs with Spring Boot for real-time web content summarization via a Chrome extension.
+- Integrated Google Gemini using Spring AI to generate structured, context-aware summaries.
+- Developed a Chrome extension side-panel interface for seamless AI interaction.
+- Implemented Chrome Storage API for persistent note-taking and insight management.
+
+**Tech Stack:** Java · Spring Boot · Spring AI · Google Gemini API
+
+#### 🔗 Links
+- **Source Code:** [GitHub](https://github.com/Manish-061/spring-ai-summarizer) <br>
 
 ## 🎯 Career Focus
 
